@@ -1,0 +1,47 @@
+body{
+    font-family: 'Karantina', cursive;
+    background-color: #fef6e4;
+}
+
+#header_div{
+    background-color:#c1f3de ;
+    color: #001858;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+
+#header_div img{
+    width: 100px;
+    border-radius: 50%;
+}
+
+.maindiv{
+    background-color: #8bd3dd;
+    box-shadow: 5px 5px 10px #e0f582;;
+padding:10px;
+margin-top: 10px;
+border: 2px solid #001858;
+}
+
+.maindiv label{
+    width: 300px;
+    background-color: #fef6e4;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 10px #e0f582;
+    padding: 10px;
+    font-size: 30px;
+}
+
+#camera , #snapshot{
+    width: 300px;
+    height: 300px;
+    border: 5px solid #001858;
+    box-shadow: 5px 5px 10px #e0f582;
+}
+
+.maindiv button{
+    width:300px;
+    box-shadow: 5px 5px 10px c;
+    font-size: 30px;
+    border: 2px solid #001858;
+}
